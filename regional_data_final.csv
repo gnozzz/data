@@ -57,7 +57,7 @@ E06000050,Cheshire West and Chester,43,234481,608.8,507.8,North West
 E07000034,Chesterfield,44,173885,547.7,540,East Midlands
 E07000225,Chichester,48,396771,654.9,665.4,South East
 E07000118,Chorley,43,197511,645.1,507.8,North West
-E09000001,City of London,37,793432,"£1,000.00",669.3,London
+E09000001,City of London,37,793432,"Â£1,000.00",669.3,London
 E07000029,Copeland,47,138099,868.8,507.8,North West
 E06000052,Cornwall,47,270079,517.2,Other,South West
 E07000079,Cotswold,49,414427,601.8,Other,South West
@@ -170,7 +170,6 @@ E07000038,North East Derbyshire,47,222373,583,540,East Midlands
 E06000012,North Lincolnshire,43,162999,582.9,476.5,Yorkshire and The Humber
 E07000099,North Hertfordshire,42,374756,766.1,572.2,East
 E07000139,North Kesteven,46,226023,609,540,East Midlands
-E06000013,North Lincolnshire,44,162999,582.9,476.5,Yorkshire and The Humber
 E07000147,North Norfolk,54,281947,559.4,572.2,East
 E06000061,Northamptonshire,40,244691,575,Other,Not Found
 E06000024,North Somerset,45,279484,574.8,Other,South West
