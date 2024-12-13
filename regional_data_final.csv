@@ -1,0 +1,296 @@
+Area code,Area name,Median age,House Price, Median Salary (weekly) ,Spending,Region,Net
+E07000223,Adur,45,340403,530.6,665.4,South East,-134.8
+E07000026,Allerdale,48,165242,644.5,507.8,North West,136.7
+E07000032,Amber Valley,46,204071,601.1,540,East Midlands,61.1
+E07000224,Arun,49,313726,574.5,665.4,South East,-90.9
+E07000170,Ashfield,42,162845,535.5,540,East Midlands,-4.5
+E07000105,Ashford,41,310845,597.9,665.4,South East,-67.5
+E07000200,Babergh,49,297979,574.9,572.2,East,2.7
+E09000002,Barking and Dagenham,33,312288,639.4,669.3,London,-29.9
+E09000003,Barnet,37,544682,686.3,669.3,London,17
+E08000016,Barnsley,42,143469,534.6,476.5,Yorkshire and The Humber,58.1
+E07000027,Barrow-in-Furness,44,131544,632.1,507.8,North West,124.3
+E07000066,Basildon,39,329141,630.4,572.2,East,58.2
+E07000084,Basingstoke and Deane,40,318849,726.6,665.4,South East,61.2
+E07000171,Bassetlaw,45,175680,503.7,540,East Midlands,-36.3
+E06000022,Bath and North East Somerset,39,376033,583.4,Other,South West,#VALUE!
+E06000055,Bedford,39,298449,624.5,572.2,East,52.3
+E09000004,Bexley,39,358959,716,669.3,London,46.7
+E08000025,Birmingham,34,207523,562.7,Other,West Midlands,#VALUE!
+E07000129,Blaby,42,247808,587.3,540,East Midlands,47.3
+E06000008,Blackburn with Darwen,36,127154,530.7,507.8,North West,22.9
+E06000009,Blackpool,43,116939,470.3,507.8,North West,-37.5
+E07000033,Bolsover,43,150322,522.3,540,East Midlands,-17.7
+E08000001,Bolton,38,152837,528.3,507.8,North West,20.5
+E07000136,Boston,42,167795,495.7,540,East Midlands,-44.3
+E06000058,Bournemouth Christchurch and Poole,42,300899,560.9,Other,Not Found,#VALUE!
+E06000036,Bracknell Forest,39,329951,726.5,665.4,South East,61.1
+E08000032,Bradford,36,151970,546.1,476.5,Yorkshire and The Humber,69.6
+E07000067,Braintree,43,296716,600.9,572.2,East,28.7
+E07000143,Breckland,46,254312,521.1,572.2,East,-51.1
+E09000005,Brent,35,479010,631.8,669.3,London,-37.5
+E07000068,Brentwood,42,440316,665.4,572.2,East,93.2
+E06000043,Brighton and Hove,38,400060,617.8,665.4,South East,-47.6
+E06000023,Bristol,34,277950,622.8,Other,Not Found,#VALUE!
+E07000144,Broadland,48,291896,564.8,572.2,East,-7.4
+E09000006,Bromley,41,456681,789.6,669.3,London,120.3
+E07000234,Bromsgrove,45,311587,668.3,Other,West Midlands,#VALUE!
+E07000095,Broxbourne,40,374805,684.1,572.2,East,111.9
+E07000172,Broxtowe,43,216470,652.3,540,East Midlands,112.3
+E06000060,Buckinghamshire,42,422076,689.9,665.4,South East,24.5
+E07000117,Burnley,39,105618,530.5,507.8,North West,22.7
+E08000002,Bury,40,217288,607.8,507.8,North West,100
+E08000033,Calderdale,42,167426,533.6,476.5,Yorkshire and The Humber,57.1
+E07000008,Cambridge,31,498370,728.9,572.2,East,156.7
+E09000007,Camden,34,812624,787.1,669.3,London,117.8
+E07000192,Cannock Chase,42,201477,582.8,Other,West Midlands,#VALUE!
+E07000106,Canterbury,41,319851,577.6,665.4,South East,-87.8
+E07000028,Carlisle,44,141744,548.6,507.8,North West,40.8
+E07000069,Castle Point,46,325642,620.8,572.2,East,48.6
+E06000056,Central Bedfordshire,41,323583,680.6,572.2,East,108.4
+E07000130,Charnwood,39,256412,555.5,540,East Midlands,15.5
+E07000070,Chelmsford,41,349531,659.2,572.2,East,87
+E07000078,Cheltenham,40,298720,657.4,Other,South West,#VALUE!
+E07000177,Cherwell,40,305403,647.6,665.4,South East,-17.8
+E06000049,Cheshire East,45,252137,626.5,507.8,North West,118.7
+E06000050,Cheshire West and Chester,43,234481,608.8,507.8,North West,101
+E07000034,Chesterfield,44,173885,547.7,540,East Midlands,7.7
+E07000225,Chichester,48,396771,654.9,665.4,South East,-10.5
+E07000118,Chorley,43,197511,645.1,507.8,North West,137.3
+E09000001,City of London,37,793432,"£1,000.00",669.3,London,330.7
+E07000029,Copeland,47,138099,868.8,507.8,North West,361
+E06000052,Cornwall,47,270079,517.2,Other,South West,#VALUE!
+E07000079,Cotswold,49,414427,601.8,Other,South West,#VALUE!
+E06000047,County Durham,43,117576,548.5,Other,North East,#VALUE!
+E08000026,Coventry,35,198402,602.6,Other,West Midlands,#VALUE!
+E07000163,Craven,50,245181,525.1,476.5,Yorkshire and The Humber,48.6
+E07000226,Crawley,37,292562,593.9,665.4,South East,-71.5
+E09000008,Croydon,37,394879,710.7,669.3,London,41.4
+E07000096,Dacorum,40,432507,689.9,572.2,East,117.7
+E06000005,Darlington,43,139574,583.3,Other,North East,#VALUE!
+E07000107,Dartford,37,319069,693,665.4,South East,27.6
+E06000015,Derbyshire,37,203263,585.3,Other,Not Found,#VALUE!
+E07000035,Derbyshire Dales,51,295813,566.4,540,East Midlands,26.4
+E08000017,Doncaster,41,146778,568.8,476.5,Yorkshire and The Humber,92.3
+E06000059,Dorset,51,320064,580.3,Other,South West,#VALUE!
+E07000108,Dover,46,282216,642.5,665.4,South East,-22.9
+E08000027,Dudley,41,198745,589.1,Other,West Midlands,#VALUE!
+E09000009,Ealing,36,504519,678.6,669.3,London,9.3
+E07000009,East Cambridgeshire,43,306249,625.6,572.2,East,53.4
+E07000040,East Devon,50,311456,595.5,Other,South West,#VALUE!
+E07000085,East Hampshire,46,395675,633.5,665.4,South East,-31.9
+E07000242,East Hertfordshire,42,411399,760.4,572.2,East,188.2
+E07000137,East Lindsey,52,190946,527.6,540,East Midlands,-12.4
+E06000011,East Riding of Yorkshire,49,197411,609,476.5,Yorkshire and The Humber,132.5
+E07000193,East Staffordshire,41,202189,574.8,Other,West Midlands,#VALUE!
+E07000244,East Suffolk,49,270149,547.6,572.2,East,-24.6
+E07000061,Eastbourne,45,251987,543.8,665.4,South East,-121.6
+E07000086,Eastleigh,41,309922,654,665.4,South East,-11.4
+E07000030,Eden,50,230128,583.8,507.8,North West,76
+E07000207,Elmbridge,42,648150,834.6,665.4,South East,169.2
+E09000010,Enfield,37,422476,670.5,669.3,London,1.2
+E07000072,Epping Forest,42,491647,664.8,572.2,East,92.6
+E07000208,Epsom and Ewell,41,495577,705.7,665.4,South East,40.3
+E07000036,Erewash,43,189897,611.3,540,East Midlands,71.3
+E07000041,Exeter,35,280348,591.8,Other,South West,#VALUE!
+E07000087,Fareham,47,308641,712.2,665.4,South East,46.8
+E07000010,Fenland,44,202057,548.6,572.2,East,-23.6
+E07000112,Folkestone and Hythe,47,285851,607.8,665.4,South East,-57.6
+E07000080,Forest of Dean,48,272105,604.5,Other,South West,#VALUE!
+E08000037,Gateshead,42,147334,539.5,Other,North East,#VALUE!
+E07000173,Gedling,44,206685,574,540,East Midlands,34
+E07000081,Gloucester,39,213471,532.1,Other,South West,#VALUE!
+E07000088,Gosport,43,223629,620.1,665.4,South East,-45.3
+E07000109,Gravesham,39,290546,612.2,665.4,South East,-53.2
+E07000145,Great Yarmouth,46,186205,516.9,572.2,East,-55.3
+E09000011,Greenwich,35,399475,739.5,669.3,London,70.2
+E07000209,Guildford,39,468337,747.7,665.4,South East,82.3
+E09000012,Hackney,32,599308,703.3,669.3,London,34
+E06000006,Halton,41,168026,588.5,507.8,North West,80.7
+E07000164,Hambleton,50,263344,577.4,476.5,Yorkshire and The Humber,100.9
+E09000013,Hammersmith and Fulham,34,703385,803,669.3,London,133.7
+E07000131,Harborough,45,323413,651.2,540,East Midlands,111.2
+E09000014,Haringey,36,561253,704.9,669.3,London,35.6
+E07000073,Harlow,37,291561,532.5,572.2,East,-39.7
+E09000015,Harrow,38,502786,735.3,669.3,London,66
+E07000089,Hart,43,437500,770.7,665.4,South East,105.3
+E06000001,Hartlepool,42,125482,574.5,Other,North East,#VALUE!
+E07000062,Hastings,43,245346,543.1,665.4,South East,-122.3
+E07000090,Havant,46,291051,560.1,665.4,South East,-105.3
+E09000016,Havering,39,385572,706.6,669.3,London,37.3
+E06000019,Herefordshire,48,257284,565.5,Other,Not Found,#VALUE!
+E07000098,Hertsmere,40,494153,664.6,572.2,East,92.4
+E07000037,High Peak,46,227331,563.8,540,East Midlands,23.8
+E09000017,Hillingdon,36,432341,699.1,669.3,London,29.8
+E07000132,Hinckley and Bosworth,45,244244,575.6,540,East Midlands,35.6
+E07000227,Horsham,45,391008,669.6,665.4,South East,4.2
+E09000018,Hounslow,36,427900,677.1,669.3,London,7.8
+E07000011,Huntingdonshire,43,279654,588.9,572.2,East,16.7
+E07000120,Hyndburn,39,107148,523.3,507.8,North West,15.5
+E07000202,Ipswich,38,211088,552,572.2,East,-20.2
+E06000046,Isle of Wight,51,255153,564.1,665.4,South East,-101.3
+E09000019,Islington,33,673362,784.7,669.3,London,115.4
+E09000020,Kensington and Chelsea,39,1129971,977,669.3,London,307.7
+E07000146,King's Lynn and West Norfolk,47,243534,558.2,572.2,East,-14
+E06000010,City of Kingston upon Hull,36,117397,517.7,Other,Not Found,#VALUE!
+E09000021,Kingston upon Thames,38,501788,766.6,669.3,London,97.3
+E08000034,Kirklees,39,167869,544.1,476.5,Yorkshire and The Humber,67.6
+E08000011,Knowsley,39,142030,572.2,507.8,North West,64.4
+E09000022,Lambeth,33,547505,747.4,669.3,London,78.1
+E07000121,Lancaster,40,175350,611.8,507.8,North West,104
+E08000035,Leeds,36,211228,596.3,476.5,Yorkshire and The Humber,119.8
+E06000016,Leicester,33,204208,512.7,540,East Midlands,-27.3
+E07000063,Lewes,48,345310,670.7,665.4,South East,5.3
+E09000023,Lewisham,35,458056,708,669.3,London,38.7
+E07000194,Lichfield,46,280163,684.3,Other,West Midlands,#VALUE!
+E07000138,Lincoln,33,167478,560.3,540,East Midlands,20.3
+E08000012,Liverpool,35,159660,586.7,507.8,North West,78.9
+E06000032,Luton,34,242963,583,572.2,East,10.8
+E07000110,Maidstone,41,313622,629.1,665.4,South East,-36.3
+E07000074,Maldon,48,371083,726.1,572.2,East,153.9
+E07000235,Malvern Hills,50,288347,595.6,Other,West Midlands,#VALUE!
+E08000003,Manchester,31,203169,531.3,507.8,North West,23.5
+E07000174,Mansfield,41,154237,517.7,540,East Midlands,-22.3
+E06000035,Medway,38,260518,602.8,665.4,South East,-62.6
+E07000133,Melton,47,272866,494,540,East Midlands,-46
+E07000187,Mendip,47,285346,568.7,Other,South West,#VALUE!
+E09000024,Merton,37,545179,690.1,669.3,London,20.8
+E07000042,Mid Devon,46,274732,596.3,Other,South West,#VALUE!
+E07000203,Mid Suffolk,48,294666,597.9,572.2,East,25.7
+E07000228,Mid Sussex,43,403382,666.4,665.4,South East,1
+E06000002,Middlesbrough,37,125115,527.6,Other,North East,#VALUE!
+E06000042,Milton Keynes,37,271641,642.1,665.4,South East,-23.3
+E07000091,New Forest,51,364425,635,665.4,South East,-30.4
+E07000175,Newark and Sherwood,45,198338,596.4,540,East Midlands,56.4
+E08000021,Newcastle upon Tyne,34,177821,601.9,Other,North East,#VALUE!
+E07000195,Newcastle-under-Lyme,43,165937,564.6,Other,West Midlands,#VALUE!
+E09000025,Newham,32,382016,677.1,669.3,London,7.8
+E07000043,North Devon,48,280072,511.6,Other,South West,#VALUE!
+E07000038,North East Derbyshire,47,222373,583,540,East Midlands,43
+E06000012,North Lincolnshire,43,162999,582.9,476.5,Yorkshire and The Humber,106.4
+E07000099,North Hertfordshire,42,374756,766.1,572.2,East,193.9
+E07000139,North Kesteven,46,226023,609,540,East Midlands,69
+E07000147,North Norfolk,54,281947,559.4,572.2,East,-12.8
+E06000061,Northamptonshire,40,244691,575,Other,Not Found,#VALUE!
+E06000024,North Somerset,45,279484,574.8,Other,South West,#VALUE!
+E08000022,North Tyneside,43,186130,575.1,Other,North East,#VALUE!
+E07000218,North Warwickshire,45,220166,622.5,Other,West Midlands,#VALUE!
+E07000134,North West Leicestershire,43,231152,642.6,540,East Midlands,102.6
+E06000057,Northumberland,48,164879,572.1,Other,North East,#VALUE!
+E07000148,Norwich,34,215448,601.2,572.2,East,29
+E06000018,Nottingham,31,198821,490.6,540,East Midlands,-49.4
+E07000219,Nuneaton and Bedworth,40,197832,561.6,Other,West Midlands,#VALUE!
+E08000004,Oldham,37,162245,547.3,507.8,North West,39.5
+E07000178,Oxford,31,439740,667.3,665.4,South East,1.9
+E07000122,Pendle,39,120840,479.9,507.8,North West,-27.9
+E06000031,Peterborough,36,206329,564.7,572.2,East,-7.5
+E06000026,Plymouth,39,188957,522,Other,South West,#VALUE!
+E06000044,Portsmouth,35,225219,604,665.4,South East,-61.4
+E07000123,Preston,36,143743,534.5,507.8,North West,26.7
+E06000038,Reading,35,297944,658.2,665.4,South East,-7.2
+E06000003,Redcar and Cleveland,46,138156,503.2,Other,North East,#VALUE!
+E07000236,Redditch,40,235097,504.7,Other,West Midlands,#VALUE!
+E07000211,Reigate and Banstead,41,451219,704.7,665.4,South East,39.3
+E07000124,Ribble Valley,48,238442,616.2,507.8,North West,108.4
+E09000027,Richmond upon Thames,41,696476,818.3,669.3,London,149
+E07000166,Richmondshire,46,236312,515.6,476.5,Yorkshire and The Humber,39.1
+E08000005,Rochdale,38,161055,518.4,507.8,North West,10.6
+E07000075,Rochford,46,369813,751.8,572.2,East,179.6
+E07000125,Rossendale,42,172138,570.6,507.8,North West,62.8
+E07000064,Rother,53,321216,583,665.4,South East,-82.4
+E08000018,Rotherham,41,161287,536.6,476.5,Yorkshire and The Humber,60.1
+E07000220,Rugby,40,264706,658.4,Other,West Midlands,#VALUE!
+E07000212,Runnymede,39,420430,727.9,665.4,South East,62.5
+E07000176,Rushcliffe,44,303094,660.8,540,East Midlands,120.8
+E07000092,Rushmoor,38,293947,680,665.4,South East,14.6
+E07000167,Ryedale,50,249601,501.8,476.5,Yorkshire and The Humber,25.3
+E08000006,Salford,34,182091,552.6,507.8,North West,44.8
+E08000028,Sandwell,37,170285,536.1,Other,West Midlands,#VALUE!
+E07000168,Scarborough,50,178786,543.9,476.5,Yorkshire and The Humber,67.4
+E07000188,Sedgemoor,46,250088,542,Other,South West,#VALUE!
+E08000014,Sefton,46,188244,585.1,507.8,North West,77.3
+E07000169,Selby,44,220197,608.2,476.5,Yorkshire and The Humber,131.7
+E08000019,Sheffield,37,192258,590.8,476.5,Yorkshire and The Humber,114.3
+E06000051,Shropshire,48,240137,575.4,Other,West Midlands,#VALUE!
+E06000039,Slough,34,299694,645.6,665.4,South East,-19.8
+E08000029,Solihull,43,304904,684.1,Other,West Midlands,#VALUE!
+E07000246,Somerset West and Taunton,47,263087,545.3,Other,South West,#VALUE!
+E07000012,South Cambridgeshire,42,400439,776.7,572.2,East,204.5
+E07000039,South Derbyshire,42,208047,630.1,540,East Midlands,90.1
+E06000025,South Gloucestershire,40,296012,613.3,Other,South West,#VALUE!
+E07000044,South Hams,51,355733,582.4,Other,South West,#VALUE!
+E07000140,South Holland,46,207114,574.9,540,East Midlands,34.9
+E07000141,South Kesteven,46,239729,583.1,540,East Midlands,43.1
+E07000031,South Lakeland,51,262499,558.8,507.8,North West,51
+E07000149,South Norfolk,46,299379,600.4,572.2,East,28.2
+E07000179,South Oxfordshire,43,481669,727.4,665.4,South East,62
+E07000126,South Ribble,44,180669,549.1,507.8,North West,41.3
+E07000196,South Staffordshire,48,262189,628.1,Other,West Midlands,#VALUE!
+E08000023,South Tyneside,43,148293,517.8,Other,North East,#VALUE!
+E06000045,Southampton,34,217646,608.2,665.4,South East,-57.2
+E06000033,Southend-on-Sea,41,306542,667.3,572.2,East,95.1
+E09000028,Southwark,33,527883,728.9,669.3,London,59.6
+E07000213,Spelthorne,41,375511,738,665.4,South East,72.6
+E07000240,St Albans,41,542704,862.4,572.2,East,290.2
+E07000197,Stafford,45,220710,613.3,Other,West Midlands,#VALUE!
+E07000198,Staffordshire Moorlands,49,205118,602.6,Other,West Midlands,#VALUE!
+E07000243,Stevenage,38,285501,577.8,572.2,East,5.6
+E08000007,Stockport,42,259969,632.3,507.8,North West,124.5
+E06000004,Stockton-on-Tees,41,146819,576.3,Other,North East,#VALUE!
+E06000021,Stoke-on-Trent,38,120043,518.2,Other,West Midlands,#VALUE!
+E07000221,Stratford-on-Avon,48,351742,674.7,Other,West Midlands,#VALUE!
+E07000082,Stroud,47,301461,576,Other,South West,#VALUE!
+E08000024,Sunderland,43,126520,484.5,Other,North East,#VALUE!
+E07000214,Surrey Heath,43,406922,798.3,665.4,South East,132.9
+E09000029,Sutton,39,402550,699.6,669.3,London,30.3
+E07000113,Swale,41,275843,583.3,665.4,South East,-82.1
+E06000030,Swindon,39,233294,583.1,Other,South West,#VALUE!
+E08000008,Tameside,40,176187,528.5,507.8,North West,20.7
+E07000199,Tamworth,40,204973,559.5,Other,West Midlands,#VALUE!
+E07000215,Tandridge,44,485442,725.4,665.4,South East,60
+E07000045,Teignbridge,49,284292,535.3,Other,South West,#VALUE!
+E07000076,Tendring,50,253594,573.7,572.2,East,1.5
+E07000093,Test Valley,44,355044,634.6,665.4,South East,-30.8
+E07000083,Tewkesbury,44,307032,637.8,Other,South West,#VALUE!
+E07000114,Thanet,45,263651,556.6,665.4,South East,-108.8
+E07000102,Three Rivers,42,530436,663.5,572.2,East,91.3
+E06000034,Thurrock,36,293549,670,572.2,East,97.8
+E07000115,Tonbridge and Malling,42,391882,701.5,665.4,South East,36.1
+E06000027,Torbay,49,223743,542.3,Other,South West,#VALUE!
+E07000046,Torridge,51,252609,524.6,Other,South West,#VALUE!
+E09000030,Tower Hamlets,30,473355,797.5,669.3,London,128.2
+E08000009,Trafford,40,317791,663,507.8,North West,155.2
+E07000116,Tunbridge Wells,43,414218,698.5,665.4,South East,33.1
+E07000077,Uttlesford,43,431847,719.4,572.2,East,147.2
+E07000180,Vale of White Horse,41,371731,688.4,665.4,South East,23
+E08000036,Wakefield,41,170075,523.7,476.5,Yorkshire and The Humber,47.2
+E08000030,Walsall,38,197962,547.8,Other,West Midlands,#VALUE!
+E09000031,Waltham Forest,35,480235,729.4,669.3,London,60.1
+E09000032,Wandsworth,33,589904,838.4,669.3,London,169.1
+E06000007,Warrington,42,213998,617.1,507.8,North West,109.3
+E07000222,Warwick,40,316072,724.8,Other,West Midlands,#VALUE!
+E07000103,Watford,36,366961,617.2,572.2,East,45
+E07000216,Waverley,44,475003,711.8,665.4,South East,46.4
+E07000065,Wealden,49,368326,613.3,665.4,South East,-52.1
+E07000241,Welwyn Hatfield,37,403839,670.8,572.2,East,98.6
+E06000037,West Berkshire,43,355669,649.2,665.4,South East,-16.2
+E07000047,West Devon,51,280161,535.2,Other,South West,#VALUE!
+E07000127,West Lancashire,44,202735,564.7,507.8,North West,56.9
+E07000142,West Lindsey,48,197067,609.7,540,East Midlands,69.7
+E07000181,West Oxfordshire,44,318852,628.6,665.4,South East,-36.8
+E07000245,West Suffolk,41,271082,578.8,572.2,East,6.6
+E09000033,Westminster,35,918858,840.5,669.3,London,171.2
+E08000010,Wigan,41,153203,583.6,507.8,North West,75.8
+E06000054,Wiltshire,44,298478,608.6,Other,South West,#VALUE!
+E07000094,Winchester,43,431534,695.6,665.4,South East,30.2
+E06000040,Windsor and Maidenhead,42,491421,729,665.4,South East,63.6
+E08000015,Wirral,44,186642,569.6,507.8,North West,61.8
+E07000217,Woking,40,442868,699.5,665.4,South East,34.1
+E06000041,Wokingham,41,436085,750.1,665.4,South East,84.7
+E08000031,Wolverhampton,38,167787,562.1,Other,West Midlands,#VALUE!
+E07000237,Worcester,39,224071,579.2,Other,West Midlands,#VALUE!
+E07000229,Worthing,44,303174,576.1,665.4,South East,-89.3
+E07000238,Wychavon,47,294065,552.2,Other,West Midlands,#VALUE!
+E07000128,Wyre,50,161499,584.6,507.8,North West,76.8
+E07000239,Wyre Forest,47,223998,582.3,Other,West Midlands,#VALUE!
+E06000014,York,39,286987,600.5,476.5,Yorkshire and The Humber,124
